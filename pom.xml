@@ -13,14 +13,14 @@
 		<maven.compiler.target>21</maven.compiler.target>
 	</properties>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/com.oracle.database.jdbc/ojdbc11 -->
+		
 		<dependency>
 			<groupId>com.oracle.database.jdbc</groupId>
-			<artifactId>ojdbc11</artifactId>
+			<artifactId>ojdbc11</artifactId>			
 			<version>23.6.0.24.10</version>
 		</dependency>
 
 
-		<!-- https://www.oracle.com/database/technologies/faq-jdbc.html -->
+		
 	</dependencies>
 </project>
